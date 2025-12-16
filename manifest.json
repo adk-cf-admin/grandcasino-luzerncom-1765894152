@@ -1,0 +1,19 @@
+{
+  "name": "Grand Casino Luzern",
+  "short_name": "Grand Casino Luzern",
+  "theme_color": "",
+  "background_color": "#AA0000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1765886057-favicon-32x32-8.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

@@ -1,0 +1,201 @@
+{
+    "de-CH": {
+        "styles": {
+            "bg": "#AA0000",
+            "lang-select-color": "#222829",
+            "bg-light": "#AA0000",
+            "welcome-bonus-bg": "#f2f2f2",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#FFFFFF",
+            "text": "#222829",
+            "text-black": "#f0f3f4",
+            "table-head": "#D49F00",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#7c0303",
+            "yellow": "#D49F00",
+            "yellow-button": "#7c0303",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#f2f2f2",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#AA0000",
+            "faq-label": "#faf5f5",
+            "bg-footer": "#1a1a1a",
+            "copyright": "#e7e7d5",
+            "starColor": "#D49F00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Grand Casino Luzern",
+            "title": "Grand Casino Luzern – Casino, Poker & Casineum in Luzern",
+            "description": "Ihr Guide zum Grand Casino Luzern: Roulette, Blackjack, Poker, Casineum‑Shows, Restaurant Olivo & Terrasse Dolce Vita. Parking Casino‑Palace. Tickets & Reservation online.",
+            "canonical": "grandcasino-luzern.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1062",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "grandcasino-luzern.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1049",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1050"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1055",
+            "imageSizeModifier": -8,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Grand Casino Luzern Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "hero": {
+            "title": "Grand Casino Luzern – Spiele, Shows & Restaurants am See",
+            "textDesktop": "Exklusives Willkommensangebot von",
+            "textMobile": "Exklusives Willkommensangebot von",
+            "playGame": "Spiel starten",
+            "claimBonus": "Bonus sichern",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1060",
+            "imageSizeModifier": 0,
+            "imageYModifier": -2,
+            "imageXModifier": -8,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1061",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Bonus sichern",
+            "title": "Top-Casino",
+            "allCasino": "Alle Casino",
+            "welcomeBonusText": "Willkommensbonus"
+        },
+        "bonusDetails": {
+            "title": "Bonusdetails",
+            "getBonusButtonText": "Bonus erhalten",
+            "maximumAmountText": "Maximalbetrag",
+            "wagerText": "Umsatz",
+            "bonusCodeText": "Bonuscode",
+            "casino": "Casino",
+            "bonuses": "Boni",
+            "rate": "Rate",
+            "freeSpins": "Freispiele",
+            "moreInfo": "Mehr Infos",
+            "get": "Erhalten",
+            "refresh": "Aktualisieren"
+        },
+        "advantages": {
+            "title": "Vorteile",
+            "advantagesBeforeText": "",
+            "items": [
+                "Klassische Tische: Roulette, Blackjack, Baccarat, Ultimate Poker.",
+                "Grosser Slot‑Bereich mit Jackpots und Top‑Titeln.",
+                "Poker Circle: Cash Games und Turniere.",
+                "Touch‑Bet‑Terminals und elektronische Roulette.",
+                "Lage direkt an der Luzerner Seepromenade, zentral.",
+                "Restaurant Olivo: Terrasse, MICHELIN, mediterrane Küche.",
+                "Lizenziertes Online‑Casino mycasino.ch für die Schweiz, mit Boni."
+            ],
+            "advantagesAfterText": "Täglich bis spät geöffnet, vom Bahnhof bequem erreichbar; moderater Eintritt ab 16:00, klarer Smart‑Casual Dresscode und sehr guter Service.",
+            "knowMore": "Mehr erfahren",
+            "appTitle": "Grand Casino Luzern App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1057",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Grand Casino Luzern App",
+            "mobileGooglePlayImageTitle": "Grand Casino Luzern App",
+            "mobileIosImageTitle": "Grand Casino Luzern App"
+        },
+        "games": {
+            "playNowText": "Jetzt spielen",
+            "title": "Beliebte Spiele",
+            "allGames": "Alle Spiele"
+        },
+        "about": {
+            "history": {
+                "title": "Über Grand Casino Luzern",
+                "description1": "\n",
+                "items": [
+                    "CHF 300 Willkommensbonus. ",
+                    "200 Freispiele ohne Umsatz. ",
+                    "PCSO Preispool CHF 239’000."
+                ],
+                "description2": "Das Grand Casino Luzern liegt direkt am See und vereint Spiel, Gastronomie und Events unter einem Dach.\nIm Grand Jeu finden Sie klassische Tische wie Roulette, Blackjack, Baccarat und Ultimate Poker.\nDer Jackpot‑Bereich bietet eine breite Auswahl an Slots mit modernen Themen und spannenden Jackpots.\nDer Poker Circle steht für regelmässige Turniere und freundliche Cash Games in entspannter Atmosphäre.\nDas Restaurant Olivo begeistert mit mediterraner Küche und einer Panoramaterrasse über dem Wasser.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1058",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Belle‑Époque‑Interieurs sorgen für elegante Stimmung und historischen Charme.\nEin klarer Smart‑Casual‑Dresscode und aufmerksamer Empfang erleichtern den Besuch.\nDie Anreise gelingt bequem mit dem ÖV, und Autofahrer nutzen das Parkhaus direkt neben dem Eingang.\nDas Casineum bietet Räume für Firmenanlässe und private Feiern.\nDie Online‑Plattform mycasino.ch ergänzt das Erlebnis mit sicherem Spiel und regelmässigen Aktionen."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Grand Casino Luzern: klassische Eleganz an der Seepromenade",
+                "description": "<p>\nDas Grand Casino Luzern empfängt seine Gäste im historischen Kursaal direkt an der Seepromenade. Belle‑Époque‑Interieurs, hohe Decken und der Blick aufs Wasser schaffen eine stilvolle Atmosphäre mit klassischem Charme und moderner Komfort‑Inszenierung; der Besucher‑Guide stellt den Abend klar unter das Motto «spielen, geniessen, feiern und erleben».\n<\/p>\n<br>\n<p>\nDie Gaming‑Flächen gliedern sich in Jackpot Casino (Slots von spätem Vormittag bis in die Nacht) und Grand Jeu (Tische ab späterem Nachmittag bis spät). Im Angebot sind American Roulette, Blackjack, Punto Banco\/Baccarat, Ultimate Poker sowie elektronische Touch‑Bet‑Lösungen und eine breite Jackpot‑Auswahl; die Details finden Sie im Bereich «Spielen».\n<\/p>\n<br>\n<p>\nKulinarisch überzeugt das Restaurant Olivo mit mediterraner Küche und Panoramaterrasse; als MICHELIN‑gelistetes Haus eignet es sich ideal für das Paket Dinner & Casino. Im Spielbereich stehen Bars bereit, um zwischen Einsätzen zu verweilen und das Geschehen an den Tischen aus der Cocktail‑Zone zu beobachten.<\/p>\n<br>\n<p>\nDie Lage ermöglicht eine bequeme Anreise mit dem ÖV (Busse ab Bahnhof bis «Casino‑Palace») und per Auto: Das Parkhaus Casino‑Palace bietet direkten Zugang zum Casino; in unmittelbarer Nachbarschaft liegen Premiumhotels wie das Grand Hotel National und das Mandarin Oriental Palace.\n<\/p>\n<br>\n<p>\nFür Events und Unterhaltung steht das Casineum mit eigenem Kalender bereit, von Themenabenden bis zu Privat‑ und Firmenanlässen; pokerseitig sorgt der Poker Circle mit regelmässigen Turnieren und Wochenend‑Cash Games für lebendige Action.\n<\/p>\n<br>\n<p>\nDie Bonus‑ und Loyalitätswelt ist zweigleisig gedacht: Online bietet mycasino.ch (die lizenzierte Plattform des Grand Casino Luzern) ein Willkommenspaket mit Bonus und Freispielen sowie regelmässige Aktionen bei gleichzeitigem Fokus auf Spielerschutz; offline belohnt der my.club Mitglieder mit persönlichen Vorteilen und speziellen Parkkonditionen.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSprache, Zahlung & Wechsel: so läuft’s im Grand Casino Luzern\n\n<\/h3>\n\n<p>\nIm Grand Casino Luzern kommuniziert das Team primär auf Deutsch; Mitarbeitende im Front Office und Service sprechen zudem fliessend Englisch und häufig auch Französisch — entsprechende Sprachanforderungen sind in den aktuellen Stellenprofilen von Casino und Restaurant Olivo klar ersichtlich. \nFür den Online‑Ticketshop des Casinos stehen moderne, sichere Zahlungsarten bereit: TWINT, Apple Pay, Google Pay sowie gängige Kreditkarten wie Visa und Mastercard. Im direkt angebundenen Parkhaus Casino‑Palace werden Bargeld (inklusive Euro) und diverse Karten akzeptiert; mit ParkingPay und Ticket+ zahlen Sie kontaktlos, und vielerorts lässt sich Parkieren sogar via TWINT mit automatischer Nummernschilderkennung abwickeln — ideal für Gäste, die mit dem Auto anreisen. \nFür Bargeldbezug und Währungswechsel empfiehlt sich die City‑Lage rund um den Bahnhof: in Gehdistanz finden Sie etablierte Wechselstuben und Transfer‑Services (u. a. Ria, Western Union, Ecex), während die Tourist Information am Bahnhof kompetent zu nahegelegenen Services und Öffnungszeiten Auskunft gibt. \nDarüber hinaus steht Ihnen die Customer Care des Casinos zur Seite: Das Team informiert verständlich und professionell, unter anderem zu verantwortungsvollem Spiel und praktischen Anliegen rund um den Besuch — das erleichtert die Verständigung und sorgt für ein reibungsloses Erlebnis.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBesuchsregeln im Grand Casino Luzern: Dresscode, Zutritt & Anreise\n<\/h3>\n\n<p>\nDas Grand Casino Luzern ist täglich geöffnet; die Spielfläche gliedert sich in das Jackpot Casino (Slots) und den Grand‑Jeu‑Bereich (Tische), was die Abendplanung erleichtert. \nDer Zutritt zum Spielbereich ist ausschliesslich Gästen ab 18 Jahren mit gültigem Ausweis gestattet; die Identifikation erfolgt gemäss den gesetzlichen Vorgaben. \nBis 16:00 ist der Eintritt frei, danach gilt eine moderate Gebühr inklusive Getränkefisch; Details sind im Besucher‑Guide und Hausreglement beschrieben. \nDer Dresscode lautet smart casual: gepflegte Freizeitkleidung ist willkommen, Sportbekleidung ist im Spielbereich nicht erlaubt; so bleibt die Atmosphäre stilvoll und einheitlich. \nVor Betreten des Spielbereichs sind Überkleider, grosse Taschen und Rucksäcke an der Garderobe abzugeben; die Regel dient der Sicherheit und dem Komfort aller Gäste. \nWaffen, Tiere sowie technische Hilfsmittel, die einen Spielvorteil verschaffen könnten, sind verboten; die Direktion kann den Eintritt verweigern und Regeln durchsetzen. \nFoto‑ und Videokameras werden vor dem Spielbereich deponiert; Mitarbeitende dürfen Ausweise kontrollieren und Anweisungen erteilen, denen Folge zu leisten ist. \nDie Anreise gelingt bequem zu Fuss ab Bahnhof oder mit den Buslinien 6, 8, 24 sowie dem Nachtbus N3 bis «Casino‑Palace». \nFür Autofahrer steht das Parkhaus Casino‑Palace mit direktem Zugang bereit; akzeptiert werden Bargeld und Karten sowie mobile Zahlungen via ParkingPay\/Ticket+, es gibt E‑Ladestationen und Parkfelder für Personen mit eingeschränkter Mobilität. \nIm Parkhaus gilt eine Einfahrtshöhe von 2,00 m; digital bezahlen lässt sich u. a. mit TWINT (teilweise mit Nummernschilderkennung). \nAktuelle Öffnungszeiten und Regeln sind auf den offiziellen Seiten publiziert; ein kurzer Blick vor dem Besuch lohnt sich. \nFür Show‑ und Pokerabende empfiehlt sich der Blick in den Casineum‑ und Poker‑Kalender.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDresscode & Stil\n<\/h4>\n\n <ul>\n            <li>• \nSmart casual ist erwünscht; Sportbekleidung ist im Spielbereich nicht erlaubt.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nZutrittsbedingungen\n<\/h4>\n\n <ul>\n            <li>• \n18+ mit gültigem Ausweis (Pass\/ID\/Führerausweis).\n<\/li>\n            <li>• \nBis 16:00 freier Eintritt; danach gebührenpflichtig inklusive Getränkefisch.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerbote & Sicherheit\n<\/h4>\n\n <ul>\n            <li>• \nÜberkleider, Kameras sowie grosse Taschen\/Rucksäcke werden vor dem Spielbereich deponiert.\n<\/li>\n            <li>• \nVerboten sind Waffen, Tiere und Geräte für einen Spielvorteil; bei Verstössen kann der Eintritt verweigert werden.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nÖffnungszeiten der Spielbereiche\n<\/h4>\n\n <ul>\n            <li>• \nJackpot Casino (Slots) vom späten Vormittag bis Nacht; Grand Jeu (Tische) ab späterem Nachmittag bis spät (je nach Wochentag).\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAnreise\n<\/h4>\n\n <ul>\n            <li>• \nZu Fuss ab Bahnhof oder mit den Buslinien 6\/8\/24 und Nachtbus N3 bis «Casino‑Palace».\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParkhaus Casino‑Palace\n<\/h4>\n\n <ul>\n            <li>• \nDirekter Zugang, E‑Ladestationen, barrierefreie Parkfelder; Zahlung mit Bargeld, Karten, ParkingPay\/Ticket+ und teils TWINT (Kennzeichenerkennung); Einfahrtshöhe 2,00 m.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nmy.club & mycasino: das Treueprogramm des Grand Casino Luzern\n<\/h3>\n\n<p>\nDas Treueprogramm des Grand Casino Luzern ist zweigleisig aufgebaut: my.club für Besuchende des landbasierten Casinos und mycasino.ch als lizenzierte Online‑Ergänzung für Spielende mit Wohnsitz in der Schweiz. my.club ist kostenlos; mit jeder Visite und jedem Spiel sammeln Sie Statuspunkte und profitieren — je nach Level — von exklusiven Jackpots, Member‑Events und Geschenken sowie von Vorteilen wie freiem Eintritt, Free‑Play‑Guthaben, reduzierten Park‑ und F&B‑Preisen. \nOnline ergänzt mycasino.ch diese Vorteile mit Promotions und Free Spins. Für neue Spieler winkt ein Willkommenspaket 100 % bis CHF 300 + 200 Free Spins (in Tranchen und mit Bonusbedingungen), das sich problemlos mit einem Casinobesuch kombinieren lässt. \nWeitere digitale Goodies umfassen 99 Verifizierungs‑Free‑Spins, die Aktion «Bring a Friend» mit CHF 50 je Person, saisonale Verlosungen bis CHF 1 000 Bonusgeld sowie wöchentliche Angebote wie das «Game of the Week» mit bis zu 30 Free Spins. \nBitte beachten: Online‑Aktionen gelten ausschliesslich in der Schweiz und unterliegen den T&Cs; my.club‑Benefits beziehen sich auf den Besuch im Grand Casino Luzern. Die aktuell gültigen Level‑Details und Aktionen finden Sie stets auf den offiziellen Seiten.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistrierungsbedingungen (Offline & Online)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nmy.club (Casino): kostenlose Anmeldung am my.club‑Desk; Zutritt zum Spielbereich ab 18+ mit gültigem Ausweis.\n<\/li>\n            <li>• \nmycasino.ch (Online): Konto für Schweizer Wohnsitz; Mindestdeposit CHF 10 für das Welcome‑Paket; KYC‑Check inkl. 99 Verifizierungs‑Free‑Spins.\n<\/li>\n  \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLevelstruktur von my.club & Aufstieg\n\n\n<\/h4>\n\n <ul>\n            <li>• \nFünf Benefit‑Level: Ihr Rang richtet sich nach Statuspunkten; je mehr Aktivität, desto schneller das Level‑Up innerhalb des my.club‑Jahres.\n<\/li>\n            <li>• \nPunkte sammeln: Karte my.club am Slot einloggen bzw. bei Aktivitäten vorweisen; ab gewissen Schwellen schaltet das System exklusive Jackpots, Events und Geschenke frei. Konkrete Schwellen\/Namen werden im offiziellen Flyer\/FAQ kommuniziert und können angepasst werden.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle verfügbaren Boni & Vorteile\n<\/h4>\n<p>\nOffline (my.club im Casino)\n<\/p>\n\n\n <ul>\n            <li>• \nExklusive Club‑Jackpots, Verlosungen und Member‑Events.\n<\/li>\n            <li>• \nFreier Eintritt und Free‑Play‑Gutschriften im Rahmen von Club‑Aktionen.\n<\/li>\n            <li>• \nReduzierte Parktarife im Casino‑Palace sowie F&B‑Vorteile vor Ort.\n<\/li>\n\n        <\/ul><br>\n<p>\nOnline (mycasino.ch in der Schweiz)\n<\/p>\n\n<ul>\n            <li>• \n Welcome‑Bonus: 100 % bis CHF 300 + 200 Free Spins (4×50; Free Spins ohne Umsatzbedingung, Bonus i. d. R. x35\/30 Tage gemäss T&Cs).\n<\/li>\n            <li>• \nVerifizierungsbonus: 99 Free Spins nach erfolgreicher Dokumentenprüfung.\n<\/li>\n            <li>• \nBring‑a‑Friend: CHF 50 je Person bei erfüllten Teilnahmebedingungen.\n<\/li>\n            <li>• \nVerlosungen & Turniere: bis CHF 1 000 Bonusgeld monatlich in Lotterien; saisonale Specials.\n<\/li>\n\t    <li>• \nWöchentlich: «Game of the Week» mit bis zu 30 Free Spins; Birthday‑Bonuses mit Free Spins gemäss aktueller Aktion.\n<\/li>\n        <\/ul><br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Softwareanbieter"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Unterhaltung und Gaming im Grand Casino Luzern",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBoni, Jackpots & saisonale Angebote im Grand Casino Luzern\n<\/h3>\n\n<p>\nIm Grand Casino Luzern erwartet Sie ein breites Spektrum an Spiel‑ und Entertainment‑Promotions: dynamische Live‑Jackpots im Slot‑Bereich, thematische Abende im Casineum sowie hochdotierte Poker‑Serien mit starkem Teilnehmerfeld. Die landbasierte Erlebniswelt wird vom legalen Online‑Casino mycasino.ch ergänzt — dort stehen Willkommenspaket, Wochen‑Promos und Verlosungen bereit; in Festzeiten laufen zusätzliche saisonale Specials (z. B. Adventskalender). Für genussvolle Abende empfiehlt sich das «Dinner & Casino»‑Paket mit fixem Preis und Spielchips, und am Eintritt gibt es eine kleine «Lucky Drink»‑Vergünstigung am späten Nachmittag. Im Eventkalender tauchen regelmässig Silvester‑Packages, Themen‑Shows, die Poker Circle‑Series und Specials mit erweitertem Programm auf.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKonkrete aktive Angebote\n<\/h4>\n\n <ul>\n            <li>• \nWelcome‑Bonus mycasino.ch: 100 % bis CHF 300 + 200 Free Spins; die Free Spins kommen in vier Tranchen à 50 ohne Umsatzbedingung, der Bonus hat i. d. R. x35 mit 30 Tagen Laufzeit.\n<\/li>\n            <li>• \nVerifizierungsbonus: nach erfolgreicher KYC — 99 Free Spins.\n<\/li>\n            <li>• \n«Bring a Friend»: je CHF 50 für Einladenden und Eingeladenen gemäss Aktionsbedingungen.\n<\/li>\n            <li>• \nWöchentliches «Game of the Week»: bis zu 30 Free Spins bei qualifizierter Aktivität.\n<\/li>\n\t    <li>• \nMonatliche Verlosung mycasino: bis CHF 1 000 Bonusgeld pro Ziehung.\n<\/li>\n        <li>• \nPoker Circle Swiss Open (offline): Preispool CHF 239’000; Sieger kassierte CHF 40’090, Highroller‑Gewinn CHF 13’500 (Beispiel aus jüngster Ausgabe).\n<\/li>\n            <li>• \n«Dinner & Casino» (Olivo): fixes Package um CHF 98 inkl. Dinner und CHF 20 Spielchips.\n<\/li>\n            <li>• \nLucky Drink Chip beim Eintritt: ab 16:00 ist ein CHF 5 Getränk‑Chip im Eintritt enthalten (Eintritt vor 16:00 kostenlos, ohne Drink‑Chip).\n<\/li>\n            <li>• \nLive‑Jackpots im Slot‑Bereich: Summen werden laufend in CHF aktualisiert; Anzeige auf den Screens und auf der Website (Zahlen schwanken, daher ohne fixe Beträge).\n<\/li>\n\t    <li>• \nSaisonale Specials im Casineum: Silvester‑Packages «Casino Royale» und Themen‑Shows mit separaten Konditionen und Terminen.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBeliebte Spiele im Grand Casino Luzern: von Roulette bis Poker Circle\n<\/h3>\n\n<p>\nDas Spielangebot im Grand Casino Luzern teilt sich in Grand Jeu (Live‑Tische) und Jackpot Casino (Slots & elektronische Stationen) – ideal für Einsteigerinnen und Fortgeschrittene gleichermassen. An den Tischen erwarten Sie American Roulette, Blackjack, Punto Banco\/Baccarat und Ultimate Poker (bank‑basierte Pokervariante), während im Slot‑Bereich ein breites Portfolio mit Jackpots läuft. Für ein hybrides Spielgefühl sorgen Touch‑Bet‑Terminals und elektronische Roulette‑Stationen, die mit einem realen Rad verbunden sind. In der Slot‑Bibliothek finden sich Klassiker wie Super Cherry, Book of Ra oder Thunder Cash; aktuelle Jackpots werden direkt in CHF angezeigt. Wer Poker bevorzugt, ist im Poker Circle richtig: Hier stehen regelmässige Turniere und Cash Games auf dem Programm, typischerweise am Freitag und Samstag abends. Der Bereich «Spielen» auf der Website liefert einen schnellen Überblick zu Spielen, Zeiten und anstehenden Events. Für Neulinge bieten die Teams am Tisch hilfreiche Erklärungen, sodass der Einstieg leichtfällt. Das Ergebnis: ein rundes «Alles‑unter‑einem‑Dach»‑Erlebnis mit Klassikern, Jackpots, Poker und modernen elektronischen Formaten.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKurzbeschriebe der beliebtesten Spiele\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAmerican Roulette – schnelles Live‑Spiel mit vielfältigen Setzoptionen am Rad im Grand‑Jeu‑Bereich.\n<\/li>\n            <li>• \nBlackjack – schlagen Sie den Dealer mit 21 Punkten; Double\/ Split je nach Tischregeln.\n<\/li>\n            <li>• \nPunto Banco \/ Baccarat – minimalistisches Setzen auf «Player» oder «Banker», hohe Spielkadenz.\n<\/li>\n            <li>• \nUltimate Poker – bankbasiertes Hold’em‑Format (ähnlich Ultimate Texas Hold’em) gegen das Haus.\n<\/li>\n\t    <li>• \nTouch‑Bet \/ elektronische Roulette – persönliche Terminals am gemeinsamen Live‑Rad; ideal zum Angewöhnen.<\/li>\n\t    <li>• \nSlots & Jackpots – «Super Cherry», «Book of Ra», «Thunder Cash» u. v. m. mit Bonus‑Features und Progressionen.\n<\/li>\n\t    <li>• \nPoker Circle (Texas Hold’em) – Turnierkalender und Cash Games am Wochenende.\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMindest‑ und Höchsteinsätze im Grand Casino Luzern\n<\/h3>\n\n<p> \nFür eine schnelle Orientierung gilt: Bei Live‑Tischen (Grand Jeu) sind die Mindest‑\/Maximaleinsätze direkt am jeweiligen Tisch angeschrieben, während an den elektronischen Multi‑\/Touch‑Bet‑Terminals (Jackpot Casino) gewisse Limits vorgegeben sind. Die Roulette‑Seite des Casinos bestätigt explizit, dass die Limits an den American‑Roulette‑Tischen angeschrieben sind; bei Multi‑Roulette liegt der Mindesteinsatz bei CHF 1 und der Maximalbetrag auf „Straight‑Up“ bei CHF 100, weitere Einsatzarten haben eigene Grenzen und werden am Screen angezeigt. \nFür Blackjack, Punto Banco\/Baccarat und Ultimate Poker nennt das Casino die klassischen Angebote; konkrete Einsatzbereiche variieren und sind am Tisch ersichtlich (siehe «Spielen»). \nIm Poker Circle laufen Cash Games jeweils Freitag\/Samstag ab 20:00; Blinds werden nach Wunsch der Gäste festgelegt, daher gibt es keine einheitlichen Standard‑Limits. \nIm Slot‑Bereich hängen Einsätze vom jeweiligen Automaten ab; Live‑Jackpots und Spielparameter sind auf den Displays und im Bereich «Spielen\/Live‑Jackpots» in CHF einsehbar.\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#7C0303; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Spiel<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mindesteinsatz<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Höchsteinsatz<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">American Roulette (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Tisch angeschrieben<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Tisch angeschrieben <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Multi‑\/Touch‑Bet Roulette (elektronisch)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 100 auf «Straight‑Up»<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (live) <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Tisch angeschrieben <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Tisch angeschrieben<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Punto Banco \/ Baccarat (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Tisch angeschrieben<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> Am Tisch angeschrieben<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Poker (banked)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Tisch angeschrieben<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Am Tisch angeschrieben<\/td>\n                <\/tr>\n           <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker Cash Games (Texas Hold’em)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Nach Absprache (Blinds)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Nach Absprache<\/td>\n                <\/tr>\n          <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots \/ Jackpots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Automatenabhängig (am Display)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Automatenabhängig (am Display)<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents & Nightlife im Grand Casino Luzern\n<\/h3>\n\n<p>\nDas Grand Casino Luzern vereint Spiel, Kulinarik und Entertainment; Dreh‑ und Angelpunkt der Nacht ist das historische Casineum. Der Abendablauf ist gestaffelt: zuerst Konzerte, Impro‑Theater, Stand‑up und Quizformate, später Club‑Nights mit DJs und Tanzfläche; Lounge‑\/Galerie‑Reservationen mit Mindestkonsumation sind möglich. Üblicherweise laufen die Clubnächte Freitag\/Samstag, mit zusätzlichen Terminen an Do\/So.\n<\/p>\n<br>\n<p>\nIm Kalender erscheinen regelmässig Ü30 Popkeller Hit Party, Gran Caribe (Salsa\/Bachata), Casino Comedy Club, Quiz Night sowie BFF — Birthday Friends Friday. Konzertseitig ergänzen Candlelight‑Reihen und Weekend‑Jazz das Programm; alle Formate sind im offiziellen Eventkalender aufgelistet.\n<\/p>\n<br>\n<p>\nZu den saisonalen Highlights zählt die Mission Midnight‑Silvesterparty im Casineum, flankiert von den Casino Royale‑Paketen (Light\/Premium\/Deluxe) mit Einlass, Mitternachtsbuffet, Dinner im Olivo und Spielguthaben; Lounges lassen sich inklusive Mindestkonsumation buchen. Hinzu kommen genussvolle Specials wie La Dolce Vita Tavolata (italienischer Abend mit DJ & Weinbegleitung) und Showformate wie Burlesque; im Winter\/Frühjahr ist die Super Bowl Party ein klassischer Fixpunkt.\n<\/p>\n<br>\n<p>\nPokerfans freuen sich über die Poker Circle‑Festivals: über das Jahr verteilt finden PCSO‑Serien, das Autumn Festival und das X‑Mas Special statt; dazwischen laufen regelmässige Turniere und Cash Games\n<\/p>\n<br>\n<p>\nParallel zur Clubnacht gibt es im Spielbereich Jackpot‑Aktionen (z. B. Cash Storm, Jingle Bells) sowie «Hot‑Seat»‑Promos — jeweils mit eigener Timing‑\/Preisstruktur im Kalender.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle wichtigen Formate\n<\/h4>\n\n <ul>\n            <li>• \nCasineum Nightclub (Fr\/Sa) — Hauptsaal + VIP‑Galerie; Club‑Nights nach Konzertblöcken; Lounge‑Reservationen möglich.\n<\/li>\n            <li>• \nÜ30 Popkeller Hit Party — 80\/90s & aktuelle Hits; oft mit Paket «Eintritt + Spielguthaben».\n<\/li>\n            <li>• \nGran Caribe (Salsa & Bachata) — wiederkehrende Latin‑Nacht mit DJ Theo; Termine im Kalender.\n<\/li>\n            <li>• \nCasino Comedy Club — Stand‑up‑Format im Casineum.\n<\/li>\n\t    <li>• \nQuiz Night — Team‑Quiz nach Programmplan.\n<\/li>\n\t    <li>• \nCandlelight Concerts — kuratierte Kammerkonzerte (Adele\/80er\/Queen vs ABBA etc.) in der Venue.\n<\/li>\n\t    <li>• \nMission Midnight (Silvester) — NYE‑Party im Casineum + Casino Royale‑Pakete (Dinner\/Spielguthaben).\n<\/li>\n\t    <li>• \nBurlesque Shownight — Ticketverkauf via Ticketshop.\n<\/li>\n\t    <li>• \nSuper Bowl Party — Grossbild‑Viewing mit Event‑Ticket.\n<\/li>\n\t    <li>• \nLa Dolce Vita Tavolata — italienische Tavolata mit DJ & Weinbegleitung.\n<\/li>\n\t    <li>• \nPoker Circle (PCSO\/X‑Mas\/Autumn) — Festivalserien mit Satellites & Side‑Events.\n<\/li>\n\t    <li>• \nCash Storm \/ Jingle Bells — saisonale Jackpot‑Promos im Slot‑Bereich.\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants & Hotels rund um das Grand Casino Luzern\n<\/h3>\n\n<p>\nKulinarik. Im Zentrum steht das Restaurant Olivo mit mediterraner Küche und Seebalkon; dazu kommen die Dinner & Casino‑Pakete (Aperitif, Menü, Spielchips), inkl. Royale mit 5‑Gänge‑Menü. \nIm Sommerbetrieb öffnet die Seeterrasse Restaurant Dolce Vita: täglich von März bis Oktober – leichte Küche, Aperitif‑Platten, Desserts direkt an der Uferpromenade.\n<\/p>\n<br>\n<p>\nBars im Spielbereich. Im Casino stehen zwei Bars bereit: Grand Jeu Bar (Live‑Tischbereich) und Jackpot Bar (Slots) mit klaren Öffnungszeiten; zudem wird ausserhalb des Spielbereichs ein separater Cocktail Bar erwähnt. \nWer ohne Eintritt die Stimmung testen will, kann gemäss Besucher‑Guide im Cocktail Bar einen Drink mit Blick auf den Spielbereich geniessen.\n<\/p>\n<br>\n<p>\nHotels nebenan. Direkt neben dem Casino liegen zwei Luxusadressen: Grand Hotel National (Haldenstrasse 4) – Vorfahrt zwischen dem Casino und dem Hotel; sowie Mandarin Oriental Palace, Luzern (Haldenstrasse 10) – ein Belle‑Époque‑Wahrzeichen mit Zimmern, Suiten und mehreren Restaurants. \nBeide Häuser sichern bequeme Anreise und Komfort; Details zu Erreichbarkeit\/Service sind auf den offiziellen Kontakt‑\/Buchungsseiten ersichtlich.\n<\/p>\n<br>\n<p>\nNightlife. Für Abend‑ und Nachtformate sorgt das Casineum: Konzerte, Comedy, Club‑Nights Fr\/Sa, dazu Lounge‑\/Galerie‑Reservationen mit Mindestkonsumation.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Relax‑Spots\n<\/h4>\n\n <ul>\n            <li>• \nRestaurant Olivo (MICHELIN) – mediterran, Seebalkon; Dinner & Casino‑Pakete.\n<\/li>\n            <li>• \nRestaurant Dolce Vita (saisonal) – Uferterrasse; März–Oktober, 12:00–23:00, leichte Karte & Aperitifs.\n<\/li>\n            <li>• \nGrand Jeu Bar – Bar im Live‑Tischsaal; Start ab 17:30.\n<\/li>\n            <li>• \nJackpot Bar – Bar im Slot‑Bereich; ab 13:00, am Wochenende ab 11:00.\n<\/li>\n\t    <li>• \nCocktail Bar (ausserhalb) – Drinks mit Blick in den Spielbereich ohne Eintritt.\n<\/li>\n\t    <li>• \nCasineum – Konzerte & Clubbing; Lounge‑\/Galerie‑Reservierungen.\n<\/li>\n\t    <li>• \nGrand Hotel National (5★) – historische Nachbarschaft zum Casino; Valet‑Parking, ÖV‑nah.\n<\/li>\n\t    <li>• \nMandarin Oriental Palace, Luzern (5★) – ikonisches Haus mit Seelage & Restaurants\/Bars.\n<\/li>\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Kann man einen Live‑Tisch im Voraus reservieren?",
+                    "answer": "Im Grand Jeu gilt in der Regel first‑come, first‑served; das Casino bietet jedoch Private Spielerklärungen für kleine Gruppen sowie Play & Sip \/ Play, Sip & Dip‑Pakete auf Reservation. Für Poker‑Cash Games erfolgt die Platzreservation telefonisch\/WhatsApp an den Cash‑Abenden (Fr\/Sa ab 20:00)."
+                },
+                {
+                    "title": "Wie barrierefrei ist das Casino (Parken, Zugang)?",
+                    "answer": "Im Casino‑Palace stehen zwei extra breite Behindertenparkfelder (P1), E‑Ladestationen und überdachte Veloständer bereit; maximale Einfahrtshöhe 2 m. Es besteht Direktzugang zum Casino."
+                },
+                {
+                    "title": "Welche Ausweise werden geprüft und wie werden Personendaten verarbeitet?",
+                    "answer": "Zutritt ab 18+ nur mit gültigem Pass\/ID\/Führerausweis; gemäss AML‑Pflichten der ESBK werden Kerndaten des Ausweises erfasst\/kopiert und bei gewissen Transaktionsschwellen ergänzt — ausschliesslich zu Identifikationszwecken und unter Datenschutz. Das Grand Casino Luzern erläutert öffentlich seine GoodPriv@cy®‑Policy; im Online‑Casino (mycasino) kommt eine zertifizierte KYC‑Lösung zum Einsatz."
+                },
+                {
+                    "title": "Sind Spielgewinne steuerpflichtig?",
+                    "answer": "Gewinne in landbasierten Schweizer Casinos sind einkommensteuerfrei (ausser bei gewerblicher Tätigkeit). Für Online‑Gewinne gilt eine Steuerfreigrenze bis CHF 1 Mio.; darüber können kantonale\/föderale Regeln greifen."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1056",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Grand Casino Luzern"
+        }
+    },
+    "langs": [
+        {
+            "code": "de-CH",
+            "name": "Немецкий",
+            "isDefault": true
+        }
+    ]
+}
